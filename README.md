@@ -27,3 +27,7 @@ cd react-ts-pokemon-api
 npm install
 npm star
 ```
+
+### Demo
+
+- [Click Here](https://svnkvn9.github.io/react-ts-pokemon-api)
