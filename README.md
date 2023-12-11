@@ -15,10 +15,6 @@ This project is a simple React application built with TypeScript that fetches da
 - Pokemon API ([Link to Pokemon API](https://pokeapi.co/))
 - Bootstrap v5
 
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
